@@ -1,8 +1,4 @@
 # Excel_Projects
-Sure! Here's a **professional `README.md`** template for your GitHub repository titled **Excel\_Projects**. This version is written assuming the repository contains multiple Excel-based projects showcasing data analysis, visualization, dashboards, and Excel automation.
-
-You can copy-paste and customize it based on your actual projects.
-
 ---
 
 # 📊 Excel Projects
